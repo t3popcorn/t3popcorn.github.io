@@ -8,6 +8,11 @@
  * The Flow license will be changed to MIT
  * [Cope Manifesto](http://copemanifesto.org/) is presented
 
+#### 2015-03-22
+
+ * An [open letter](https://gist.github.com/alexanderschnitzler/ed0dacff617df880065c) to the Neos development team
+ * Another [open letter](https://gist.github.com/NamelessCoder/e8c5467cfefea4f34df2)
+
 #### 2015-03-21
 
  * Another TYPO3 satire Twitter account ([TYPO3 Doge](https://twitter.com/typo3doge)) appears
