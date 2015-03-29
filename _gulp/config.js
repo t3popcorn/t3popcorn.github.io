@@ -60,6 +60,7 @@ module.exports = {
         'img/*.jpg',
         'img/*.svg',
         '_includes/**/*.html',
+        '_includes/**/*.md',
         '_layouts/*.html',
         '_posts/*.md',
         '_data/*.yml',
