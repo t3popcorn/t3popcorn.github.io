@@ -2,4 +2,4 @@ title: T3Popcorn
 exclude: ['_site','scss','*scss','Gem*','Guard*','*rb','.sass-cache','.git*','config.rb','*.md','*.json','docroot','node_modules','gulpfile.js']
 
 sass:
-    sass_dir: scss
+  sass_dir: scss
