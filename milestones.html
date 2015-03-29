@@ -3,11 +3,10 @@ layout: default
 title: Milestones
 section: home
 ---
-<section class="row">
 
-	<div class="holder">
+<div class="holder">
+	<section class="row">
 		{% capture milestones %}{% include content/milestones.md %}{% endcapture %}
 		{{ milestones | markdownify }}
-	</div>
-
-</section>
+	</section>
+</div>
