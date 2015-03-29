@@ -7,7 +7,7 @@ module.exports = {
 
   scss: {
     src : 'scss/**/*.scss',
-    cssDest : 'css/',
+    cssDest : 'styles/',
     jekyllCssDes : '_site/css/',
     prefix : [                          // Autoprefixer supported browsers
         'last 2 version',
