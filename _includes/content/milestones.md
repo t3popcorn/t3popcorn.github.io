@@ -20,7 +20,7 @@
 
 #### 2015-02-01
 
-  * [Not](https://twitter.com/helhum/status/561863098177695744) [everybody](https://github.com/t3popcorn/t3popcornbot/issues/4) [likes](https://twitter.com/MarcusSchwemer/status/561889773493972992) it
+  * [Not](https://twitter.com/helhum/status/561863098177695744) [everybody](https://github.com/t3popcorn/t3popcornbot/issues/4) [likes](https://twitter.com/MarcusSchwemer/status/561889773493972992) T3Popcorn
 
 ### January
 
