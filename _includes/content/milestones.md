@@ -16,6 +16,7 @@
 #### 2015-03-21
 
  * Another TYPO3 satire Twitter account ([TYPO3 Doge](https://twitter.com/typo3doge)) appears
+ * Beginning of [EAB elections](https://voting.typo3.org/election/expert-advisory-board-election-2015)
 
 #### 2015-03-05
  
