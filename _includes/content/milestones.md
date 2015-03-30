@@ -24,6 +24,10 @@
 
 ### February
 
+#### 2015-02-24
+
+ * TYPO3 7.1 is [released](https://typo3.org/news/article/typo3-cms-71-released-home-improvement/)
+
 #### 2015-02-01
 
   * [Not](https://twitter.com/helhum/status/561863098177695744) [everybody](https://github.com/t3popcorn/t3popcornbot/issues/4) [likes](https://twitter.com/MarcusSchwemer/status/561889773493972992) T3Popcorn
