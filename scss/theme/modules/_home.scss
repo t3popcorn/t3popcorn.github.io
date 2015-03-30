@@ -42,3 +42,12 @@
 	}
 
 }
+
+.main-col-9 {
+	@include box-(12,1,1);
+
+	@include mq($bp4) {
+		@include box-(9,1,1);
+	}
+
+}
