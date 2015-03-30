@@ -4,9 +4,9 @@
 
 #### 2015-03-27 - Inspiring Conference
 
- * Neos and Flow will be hosted on github
- * The Flow license will be changed to MIT
- * [Cope Manifesto](http://copemanifesto.org/) is presented
+ * Neos and Flow will be hosted on [github](https://twitter.com/TYPO3Neos/status/581388656499400704)
+ * The Flow license will be [changed](https://twitter.com/kdambekalns/status/581396675689840640) [to](https://twitter.com/TYPO3Neos/status/581397007614476288) MIT
+ * [Cope Manifesto](http://copemanifesto.org/) is revealed
 
 #### 2015-03-22
 
