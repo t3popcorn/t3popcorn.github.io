@@ -5,6 +5,7 @@
 #### 2015-04-01
 
  * [Apples and pears](https://gist.github.com/alexanderschnitzler/7192d1ea886f113c7f68)
+ * Flow needs to be [added](https://github.com/kenjis/php-framework-benchmark/pull/9) to the benchmark [repository](https://github.com/kenjis/php-framework-benchmark)
 
 ### March
 
