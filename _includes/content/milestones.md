@@ -1,6 +1,16 @@
 ## 2015
 
+### April
+
+#### 2015-04-01
+
+ * [Apples and pears](https://gist.github.com/alexanderschnitzler/7192d1ea886f113c7f68)
+
 ### March
+
+#### 2015-03-31
+
+ * Flow enters the competition into the PHP Framework benchmark [comparison](https://twitter.com/alex_schnitzler/status/583004074540441600)
 
 #### 2015-03-27 - Inspiring Conference
 
