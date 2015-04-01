@@ -19,6 +19,10 @@
  * The Flow license will be [changed](https://twitter.com/kdambekalns/status/581396675689840640) [to](https://twitter.com/TYPO3Neos/status/581397007614476288) MIT
  * [Cope Manifesto](http://copemanifesto.org/) is revealed
 
+#### 2015-03-25
+
+ * The TYPO3 infrastructure needs to be [changed](https://www.change.org/p/typo3-org-provide-a-modern-cooperative-infrastrukture-to-built-inspire-people-to-share)
+
 #### 2015-03-22
 
  * An [open letter](https://gist.github.com/alexanderschnitzler/ed0dacff617df880065c) to the Neos development team
