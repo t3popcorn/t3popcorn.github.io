@@ -2,6 +2,14 @@
 
 ### April
 
+#### 2015-04-03
+
+ * Flow got merged in the PHP framework benchmark [comparison](https://github.com/kenjis/php-framework-benchmark)
+
+#### 2015-04-02
+
+ * The TYPO3 association [expressed full confidence in Flow and Neos](https://twitter.com/SwiftLizard/status/583693425293295616)
+
 #### 2015-04-01
 
  * [Apples and pears](https://gist.github.com/alexanderschnitzler/7192d1ea886f113c7f68)
