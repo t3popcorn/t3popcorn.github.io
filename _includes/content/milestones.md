@@ -2,6 +2,10 @@
 
 ### April
 
+#### 2015-04-07
+
+ * Claus Due releases a dependency-free, standalone version of [TYPO.Fluid](https://github.com/NamelessCoder/TYPO3.Fluid)
+
 #### 2015-04-03
 
  * Flow got merged in the PHP framework benchmark [comparison](https://github.com/kenjis/php-framework-benchmark)
