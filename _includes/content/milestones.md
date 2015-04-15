@@ -2,6 +2,14 @@
 
 ### April
 
+#### 2015-04-14 TYPO3 Association General Assembly
+ 
+ * A General Assembly took place in Essen
+
+#### 2015-04-13 TYPO3 Dialogue Days
+
+ * The TYPO3 Dialogue Days took place in Essen. No Neos team member participated
+
 #### 2015-04-07
 
  * Claus Due releases a dependency-free, standalone version of [TYPO.Fluid](https://github.com/NamelessCoder/TYPO3.Fluid)
