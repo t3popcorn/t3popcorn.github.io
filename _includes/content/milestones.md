@@ -1,5 +1,11 @@
 ## 2015
 
+### May
+
+#### 2015-05-18 Neos about to leave the TYPO3 Association
+
+* [#nexit](https://twitter.com/search?f=realtime&q=%23nexit&src=typd)
+
 ### April
 
 #### 2015-04-14 TYPO3 Association General Assembly
