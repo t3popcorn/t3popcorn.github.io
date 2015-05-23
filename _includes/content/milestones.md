@@ -2,11 +2,21 @@
 
 ### May
 
+#### 2015-05-21 Announcement of the new Neos channels and visions
+
+* [Slack](http://slack.neos.io/)
+* [neos.io](http://neos.io)
+* [Neos Split FAQ](https://neos.typo3.org/learn/neos-split-faq.html)
+
 #### 2015-05-18 Neos about to leave the TYPO3 Association
 
 * [#nexit](https://twitter.com/search?f=realtime&q=%23nexit&src=typd)
 
 ### April
+
+#### 2015-04-28 Release TYPO3 7.2
+
+* [Article](https://typo3.org/news/article/announcing-typo3-cms-72-continuous-excitement/)
 
 #### 2015-04-14 TYPO3 Association General Assembly
  
