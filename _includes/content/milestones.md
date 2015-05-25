@@ -2,6 +2,11 @@
 
 ### May
 
+#### 2015-05-21 t3popcorn Twitter Account open
+ 
+ * By opening itself up to the public, the [@t3popcorn](https://twitter.com/t3popcorn/) account is now the de-facto community manager of TYPO3
+
+
 #### 2015-05-21 Announcement of the new Neos channels and visions
 
 * [Slack](http://slack.neos.io/)
